@@ -1,0 +1,1 @@
+[18-Feb-2015 11:41:15 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/livecrm/public_html/livecrmyii/livefactory/modules/customer/views/default/index.php on line 2

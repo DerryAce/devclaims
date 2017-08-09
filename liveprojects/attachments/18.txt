@@ -1,0 +1,72 @@
+Admin 
+		Add/Update/Search/Delete Jobs
+		Add/Update/Search/Delete Recruitment
+		Add/Update/Delete/Search Employer's Board
+		Search/Delete All Company Insiders
+		Add/Update/Delete/Search Resume Template 
+		Salary Analyst Module
+		Search/Delete Background Skill Registration
+		Add/Update/Delete/Search Interview Question 
+		J.B Career Community Module
+		Add/update/delete/search Company Insiders Referral 
+		Search/Delete Club resume review
+		Add/Update/Delete/Search Student Councillor Points 
+		Add/Update/Delete/Search Job-seeker Councillor Points 
+		Add/Update/Delete/Search market Analysts 
+		Add/Update/Delete/Search Career Growth Development Points 
+		Search/Delete Education Skill Registration (with Module)
+		Search/Delete Employment Skill Registration (with Module)
+		Search/Delete Profile Expert  (with Module)
+		Search/Delete Career blaster (with Module)
+		Search/Delete Interview Power Pro (with Module)
+		Search/Delete Fresher Combo (with Module)
+		Search/Delete Expert Combo (with Module)
+		Add/Update/Delete/Search Community
+		Consultant Connection Module
+		Search/Delete Students
+		Reset Password
+		
+	
+Employer Board
+		Self Registration
+		Add/Update/Delete/Search Company Insiders
+		Add/Update/Delete/Search Jobs
+		Reset Password
+		
+Company Insider
+		See All Applied Resumes
+		See All Job-seekers
+		Info (authority)
+		Reset Password
+		
+Job-seekers
+		Self Registration
+		Buy Job Resume
+		Update Profile
+		Applied jobs
+		Reset Password
+		Jobs Alerts
+		Get support
+		info (authority)
+		Job Updates
+		Background Skill Registry 
+		Education Skill Registration
+		Employment Skill Registration
+		Profile Expert Registration
+		Interview Power pro Registration
+		Fresher Combo Registration
+		Expert Combo Registration
+		post review on club resume
+		Companies Background check
+		view market Analysts
+		my job book
+		Register on Community
+		Buy Consultant Connection 
+		See All Buy product List(with Detail)
+		Reset Password
+		
+Student
+		Self Registration
+		Update Profile
+		Buy Guidance 
+		Reset Password

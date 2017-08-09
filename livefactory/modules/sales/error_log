@@ -1,0 +1,1 @@
+[18-Feb-2015 15:10:12 America/Chicago] PHP Fatal error:  Class 'yii\base\Module' not found in /home/livecrm/public_html/livecrmyii/livefactory/modules/sales/Module.php on line 6

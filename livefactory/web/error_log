@@ -1,0 +1,1237 @@
+[02-Jan-2015 22:27:52 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 48
+[02-Jan-2015 22:27:57 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 48
+[02-Jan-2015 22:28:28 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 48
+[02-Jan-2015 22:28:35 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 48
+[02-Jan-2015 22:29:12 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 22:33:13 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 22:53:00 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 22:53:05 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:04:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:04:17 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:04:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:04:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:05:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:05:25 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:08:53 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:09:52 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:12:10 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:13:56 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:13:58 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[02-Jan-2015 23:14:02 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[03-Jan-2015 00:01:54 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 49
+[03-Jan-2015 00:48:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 102
+[03-Jan-2015 00:50:53 America/Chicago] PHP Warning:  Unterminated comment starting line 72 in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 72
+[03-Jan-2015 00:50:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 73
+[03-Jan-2015 01:24:12 America/Chicago] PHP Fatal error:  Class 'TaskStatus' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 78
+[03-Jan-2015 01:24:15 America/Chicago] PHP Fatal error:  Class 'TaskStatus' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 78
+[03-Jan-2015 01:27:30 America/Chicago] PHP Fatal error:  Class 'Project' not found in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 79
+[03-Jan-2015 01:29:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 44
+[03-Jan-2015 02:57:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 76
+[03-Jan-2015 02:58:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 153
+[03-Jan-2015 02:58:18 America/Chicago] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 164
+[03-Jan-2015 02:58:21 America/Chicago] PHP Parse error:  syntax error, unexpected ''value'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/index.php on line 164
+[03-Jan-2015 06:28:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 105
+[03-Jan-2015 06:28:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 105
+[03-Jan-2015 06:30:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 105
+[03-Jan-2015 06:32:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 105
+[03-Jan-2015 06:32:27 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 105
+[03-Jan-2015 06:33:21 America/Chicago] PHP Warning:  Unterminated comment starting line 61 in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 61
+[03-Jan-2015 06:33:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 62
+[03-Jan-2015 06:54:37 America/Chicago] PHP Warning:  Unterminated comment starting line 175 in /home/lobjects/public_html/livefactory/backend/views/task/_form.php on line 175
+[03-Jan-2015 06:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/_form.php on line 187
+[05-Jan-2015 03:06:45 America/Chicago] PHP Fatal error:  Call to undefined method Yii::app() in /home/lobjects/public_html/livefactory/backend/views/task/create.php on line 2
+[05-Jan-2015 03:21:43 America/Chicago] PHP Fatal error:  Call to a member function load() on a non-object in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 89
+[05-Jan-2015 03:22:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 99
+[05-Jan-2015 06:22:07 America/Chicago] PHP Fatal error:  Call to undefined function getAttachmentCount() in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 48
+[05-Jan-2015 06:22:10 America/Chicago] PHP Fatal error:  Call to undefined function getAttachmentCount() in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 48
+[05-Jan-2015 06:29:15 America/Chicago] PHP Fatal error:  Class 'ActiveForm' not found in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 126
+[05-Jan-2015 06:29:20 America/Chicago] PHP Fatal error:  Class 'ActiveForm' not found in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 126
+[05-Jan-2015 07:26:29 America/Chicago] PHP Fatal error:  Class 'common\models\search\InvoiceModel' not found in /home/lobjects/public_html/livefactory/common/models/search/Task.php on line 71
+[05-Jan-2015 07:26:32 America/Chicago] PHP Fatal error:  Class 'common\models\search\InvoiceModel' not found in /home/lobjects/public_html/livefactory/common/models/search/Task.php on line 71
+[05-Jan-2015 07:27:48 America/Chicago] PHP Fatal error:  Class 'common\models\search\InvoiceModel' not found in /home/lobjects/public_html/livefactory/common/models/search/Task.php on line 71
+[05-Jan-2015 07:36:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''100px' (T_ENCAPSED_AND_WHITESPACE) in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 160
+[05-Jan-2015 07:43:05 America/Chicago] PHP Fatal error:  Class 'Task' not found in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 47
+[05-Jan-2015 07:43:08 America/Chicago] PHP Fatal error:  Class 'Task' not found in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 47
+[05-Jan-2015 07:51:52 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 07:51:56 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 08:47:31 America/Chicago] PHP Fatal error:  Undefined class constant 'TYPE_HOIZONTAL' in /home/lobjects/public_html/livefactory/backend/views/user-type/_form.php on line 17
+[05-Jan-2015 08:47:33 America/Chicago] PHP Fatal error:  Undefined class constant 'TYPE_HOIZONTAL' in /home/lobjects/public_html/livefactory/backend/views/user-type/_form.php on line 17
+[05-Jan-2015 08:47:39 America/Chicago] PHP Fatal error:  Undefined class constant 'TYPE_HOIZONTAL' in /home/lobjects/public_html/livefactory/backend/views/user-type/_form.php on line 17
+[05-Jan-2015 08:50:17 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/user-type/_form.php on line 68
+[05-Jan-2015 08:50:19 America/Chicago] PHP Fatal error:  Class 'ArrayHelper' not found in /home/lobjects/public_html/livefactory/backend/views/user-type/_form.php on line 68
+[05-Jan-2015 22:52:39 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 64
+[05-Jan-2015 22:53:30 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 64
+[05-Jan-2015 22:53:33 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 64
+[05-Jan-2015 22:55:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 64
+[05-Jan-2015 22:55:30 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 22:59:55 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 23:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 23:01:07 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 23:01:12 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 67
+[05-Jan-2015 23:03:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:03:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:03:29 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:09:52 America/Chicago] PHP Fatal error:  Class 'ActionColumn' not found in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 60
+[05-Jan-2015 23:09:56 America/Chicago] PHP Fatal error:  Class 'ActionColumn' not found in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 60
+[05-Jan-2015 23:11:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected ''delete'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:18:40 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:18:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 68
+[05-Jan-2015 23:54:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 69
+[05-Jan-2015 23:54:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 69
+[05-Jan-2015 23:56:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 59
+[06-Jan-2015 00:06:34 America/Chicago] PHP Fatal error:  Call to undefined method Yii::app() in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 69
+[06-Jan-2015 00:06:37 America/Chicago] PHP Fatal error:  Call to undefined method Yii::app() in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 69
+[06-Jan-2015 00:07:38 America/Chicago] PHP Fatal error:  Call to undefined method Yii::app() in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 69
+[06-Jan-2015 02:50:01 America/Chicago] PHP Fatal error:  Call to a member function field() on a non-object in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 70
+[06-Jan-2015 02:50:09 America/Chicago] PHP Fatal error:  Call to a member function field() on a non-object in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 70
+[06-Jan-2015 02:59:16 America/Chicago] PHP Fatal error:  Class 'CKEditor' not found in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 75
+[06-Jan-2015 02:59:19 America/Chicago] PHP Fatal error:  Class 'CKEditor' not found in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 75
+[06-Jan-2015 03:42:12 America/Chicago] PHP Fatal error:  Cannot use dosamigos\ckeditor\CKEditor as CKEditor because the name is already in use in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 14
+[06-Jan-2015 03:42:16 America/Chicago] PHP Fatal error:  Cannot use dosamigos\ckeditor\CKEditor as CKEditor because the name is already in use in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 14
+[06-Jan-2015 03:42:31 America/Chicago] PHP Fatal error:  Cannot use dosamigos\ckeditor\CKEditor as CKEditor because the name is already in use in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 14
+[06-Jan-2015 03:42:41 America/Chicago] PHP Fatal error:  Cannot use dosamigos\ckeditor\CKEditor as CKEditor because the name is already in use in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 14
+[06-Jan-2015 03:42:47 America/Chicago] PHP Fatal error:  Cannot use dosamigos\ckeditor\CKEditor as CKEditor because the name is already in use in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 14
+[06-Jan-2015 03:52:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/_form.php on line 375
+[06-Jan-2015 03:55:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/lobjects/public_html/livefactory/backend/views/task/task-view.php on line 81
+[06-Jan-2015 06:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lobjects/public_html/livefactory/backend/views/task/attachments.php on line 59
+[06-Jan-2015 06:40:38 America/Chicago] PHP Fatal error:  Call to a member function delete() on a non-object in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 164
+[06-Jan-2015 07:13:39 America/Chicago] PHP Fatal error:  Call to a member function delete() on a non-object in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 164
+[06-Jan-2015 07:32:53 America/Chicago] PHP Fatal error:  Call to undefined function getLoggedInUserFullName() in /home/lobjects/public_html/livefactory/backend/views/task/attachmentae.php on line 165
+[06-Jan-2015 07:32:56 America/Chicago] PHP Fatal error:  Call to undefined function getLoggedInUserFullName() in /home/lobjects/public_html/livefactory/backend/views/task/attachmentae.php on line 165
+[07-Jan-2015 00:23:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 23
+[07-Jan-2015 00:23:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 23
+[07-Jan-2015 00:25:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 23
+[07-Jan-2015 00:25:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 115
+[07-Jan-2015 00:25:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 115
+[07-Jan-2015 00:26:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 115
+[07-Jan-2015 00:26:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 115
+[07-Jan-2015 00:27:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 115
+[07-Jan-2015 03:18:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 203
+[07-Jan-2015 03:48:37 America/Chicago] PHP Fatal error:  Call to undefined method Yii::app() in /home/lobjects/public_html/livefactory/backend/controllers/TaskController.php on line 245
+[07-Jan-2015 07:11:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/lobjects/public_html/livefactory/backend/views/task/notes.php on line 63
+[07-Jan-2015 07:11:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/lobjects/public_html/livefactory/backend/views/task/notes.php on line 63
+[07-Jan-2015 13:23:08 America/Chicago] PHP Warning:  require(/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php): failed to open stream: No such file or directory in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:23:08 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php' (include_path='.:/opt/php54/lib/php') in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:41:33 America/Chicago] PHP Warning:  require(/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php): failed to open stream: No such file or directory in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:41:33 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php' (include_path='.:/opt/php54/lib/php') in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:43:46 America/Chicago] PHP Warning:  require(/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php): failed to open stream: No such file or directory in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:43:46 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php' (include_path='.:/opt/php54/lib/php') in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:43:51 America/Chicago] PHP Warning:  require(/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php): failed to open stream: No such file or directory in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:43:51 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/lobjects/public_html/livecrmyii/livefactory/web/../../common/config/bootstrap.php' (include_path='.:/opt/php54/lib/php') in /home/lobjects/public_html/livecrmyii/livefactory/web/index.php on line 7
+[07-Jan-2015 13:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/lobjects/public_html/livecrmyii/livefactory/config/bootstrap.php on line 14
+[07-Jan-2015 13:44:26 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/lobjects/public_html/livecrmyii/livefactory/config/bootstrap.php on line 14
+[07-Jan-2015 13:44:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/lobjects/public_html/livecrmyii/livefactory/config/bootstrap.php on line 14
+[07-Jan-2015 13:44:57 America/Chicago] PHP Warning:  require(/home/lobjects/public_html/livecrmyii/livefactory/config/../../common/config/params.php): failed to open stream: No such file or directory in /home/lobjects/public_html/livecrmyii/livefactory/config/main.php on line 2
+[07-Jan-2015 13:44:57 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/lobjects/public_html/livecrmyii/livefactory/config/../../common/config/params.php' (include_path='.:/opt/php54/lib/php') in /home/lobjects/public_html/livecrmyii/livefactory/config/main.php on line 2
+[07-Jan-2015 13:45:29 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '29823',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2M2MC5Up0AABZs8I8AAACT',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420659929.09795093536376953125,
+    'REQUEST_TIME' => 1420659929,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 13:49:07 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '33076',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2Ns8C5Up0AADpXxAUAAAGk',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420660147.522986888885498046875,
+    'REQUEST_TIME' => 1420660147,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 13:50:30 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '34421',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2OBsC5Up0AADpXxokAAAGi',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420660230.2329199314117431640625,
+    'REQUEST_TIME' => 1420660230,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 14:15:21 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '59418',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2T2cC5Up0AAAI0lPoAAAGh',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420661721.1810700893402099609375,
+    'REQUEST_TIME' => 1420661721,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 14:15:26 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '59587',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2T3sC5Up0AAAI0lU0AAAF1',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420661726.2665569782257080078125,
+    'REQUEST_TIME' => 1420661726,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 14:17:03 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '10044',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2UP8C5Up0AAAI0mAcAAAF7',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420661823.8729419708251953125,
+    'REQUEST_TIME' => 1420661823,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 14:25:44 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '18236',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2WSMC5Up0AAB7ZVYcAAAAp',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420662344.344521045684814453125,
+    'REQUEST_TIME' => 1420662344,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 15:14:32 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '12025',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2ht8C5Up0AADpnpjkAAAAu',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420665271.9559919834136962890625,
+    'REQUEST_TIME' => 1420665271,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 15:16:41 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '14461',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2iOcC5Up0AADsDtisAAAHk',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420665401.612185001373291015625,
+    'REQUEST_TIME' => 1420665401,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 15:17:51 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[07-Jan-2015 15:19:40 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[07-Jan-2015 15:19:41 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[07-Jan-2015 15:20:15 America/Chicago] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/error".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#2 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#3 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=c833f5c9eff648add252993787dc5025; _csrf=7f06af29a47a3af102e19b4d9bd976d1d49ef22c8b1b7976a8a0f5c0be1d134ds%3A32%3A%22S14o-8K52m6oF3IFs-ERBV1pE7Jr-07g%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.64.138.31',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => '',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.64.138.31',
+    'REMOTE_PORT' => '18304',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VK2jD8C5Up0AADsDuvgAAAHg',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1420665615.558700084686279296875,
+    'REQUEST_TIME' => 1420665615,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jan-2015 15:23:57 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[07-Jan-2015 23:54:29 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[16-Jan-2015 23:56:06 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:13:11 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:14 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:19 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:21 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:22 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:23 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:15:25 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(Array)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(Array)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:22:31 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/helpers/BaseArrayHelper.php on line 131
+[17-Jan-2015 17:22:31 America/Chicago] PHP Fatal error:  Uncaught exception 'yii\base\InvalidConfigException' with message 'The "id" configuration for the Application is required.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php:220
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(202): yii\base\Application->preInit(1)
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(18): yii\base\Application->__construct(1)
+#2 {main}
+  thrown in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php on line 220
+[17-Jan-2015 17:24:27 America/Chicago] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/lobjects/public_html/livecrmyii/livefactory/views/layouts/main.php on line 11
+[17-Jan-2015 17:25:58 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('customer/custom...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=5a3ed6398607f39142c4a695184cdbcd; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/index.php',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=customer%2Fcustomer%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '48968',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=customer%2Fcustomer%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLrvhsC5Up0AAHrrHCYAAAA@',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421537158.7446320056915283203125,
+    'REQUEST_TIME' => 1421537158,
+    'argv' => [
+        'r=customer%2Fcustomer%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:47:07 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "pmt/task/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('pmt/task/index', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "pmt/task/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=a8d143677b14a8d2aaab95d576b730b3; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=pmt%2Ftask%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '12757',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=pmt%2Ftask%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr0e8C5Up0AADTsaB0AAACB',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538427.809874057769775390625,
+    'REQUEST_TIME' => 1421538427,
+    'argv' => [
+        'r=pmt%2Ftask%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:47:12 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "pmt/project/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('pmt/project/ind...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "pmt/project/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=a8d143677b14a8d2aaab95d576b730b3; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=pmt%2Fproject%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '12788',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=pmt%2Fproject%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr0gMC5Up0AADdEhgIAAAAi',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538432.2599580287933349609375,
+    'REQUEST_TIME' => 1421538432,
+    'argv' => [
+        'r=pmt%2Fproject%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:47:15 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('customer/custom...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=a8d143677b14a8d2aaab95d576b730b3; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=customer%2Fcustomer%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '12803',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=customer%2Fcustomer%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr0g8C5Up0AADdEhgkAAAAE',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538435.6437170505523681640625,
+    'REQUEST_TIME' => 1421538435,
+    'argv' => [
+        'r=customer%2Fcustomer%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:49:43 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('customer/custom...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=8dce5d67fbb301ae3adc9b0f191346fa; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/index.php',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=customer%2Fcustomer%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '14450',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=customer%2Fcustomer%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr1F8C5Up0AADTsa0MAAACt',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538583.6152689456939697265625,
+    'REQUEST_TIME' => 1421538583,
+    'argv' => [
+        'r=customer%2Fcustomer%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:51:55 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "customer/pmt/user-type/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('customer/pmt/us...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "customer/pmt/user-type/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=8dce5d67fbb301ae3adc9b0f191346fa; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/index.php?r=customer%2Fcustomer-type%2Findex',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=customer%2Fpmt%2Fuser-type%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '15907',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=customer%2Fpmt%2Fuser-type%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr1m8C5Up0AADdEi9IAAAAN',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538715.66320705413818359375,
+    'REQUEST_TIME' => 1421538715,
+    'argv' => [
+        'r=customer%2Fpmt%2Fuser-type%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:54:22 America/Chicago] exception 'yii\web\ForbiddenHttpException' with message 'You are not allowed to perform this action.' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php:150
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/filters/AccessControl.php(133): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ActionFilter.php(71): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Component.php(538): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(259): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Controller.php(108): yii\base\Controller->beforeAction(Object(yii\web\ErrorAction))
+#6 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\web\ErrorAction))
+#7 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#8 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/ErrorHandler.php(80): yii\base\Module->runAction('site/error')
+#9 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/ErrorHandler.php(95): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#10 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#11 {main}
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "customer/customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Module.php:461
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php(83): yii\base\Module->runAction('customer/custom...', Array)
+#1 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Unable to resolve the request "customer/customer/customer/index".' in /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/web/Application.php:95
+Stack trace:
+#0 /home/lobjects/public_html/livecrmyii/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/lobjects/public_html/livecrmyii/livefactory/web/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/lobjects/public_html/livecrmyii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_COOKIE' => 'PHPSESSID=8dce5d67fbb301ae3adc9b0f191346fa; _csrf=4550a48f74f0241efd7bcef8d8677901052d085448ba38ab3f9112338e8fc55ds%3A32%3A%22rCBJ1pK9uHZYw5zFS92qLjL-CI8k1S33%22%3B; _identity=e65e1891ff1603911d52bcb08651f569ab7134aa0fbaeabf58f4dd2a44df1687s%3A46%3A%22%5B1%2C%22dtKJDD15MI1VzlUJNOAkQauEEoimWF12%22%2C2592000%5D%22%3B',
+    'HTTP_HOST' => 'livecrmyii.liveobjects.org',
+    'HTTP_REFERER' => 'http://livecrmyii.liveobjects.org/livefactory/web/index.php?r=customer%2Fcustomer%2Findex',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0',
+    'HTTP_X_HTTP_PROTO' => 'HTTP/1.1',
+    'HTTP_X_REAL_IP' => '182.69.83.201',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=customer%2Fcustomer%2Fcustomer%2Findex',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '182.69.83.201',
+    'REMOTE_PORT' => '17474',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/livefactory/web/index.php?r=customer%2Fcustomer%2Fcustomer%2Findex',
+    'SCRIPT_FILENAME' => '/home/lobjects/public_html/livecrmyii/livefactory/web/index.php',
+    'SCRIPT_NAME' => '/livefactory/web/index.php',
+    'SERVER_ADDR' => '192.185.143.102',
+    'SERVER_ADMIN' => 'webmaster@livecrmyii.liveobjects.org',
+    'SERVER_NAME' => 'livecrmyii.liveobjects.org',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at livecrmyii.liveobjects.org Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'UNIQUE_ID' => 'VLr2LsC5Up0AADdEjssAAAAg',
+    'PHP_SELF' => '/livefactory/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1421538862.848661899566650390625,
+    'REQUEST_TIME' => 1421538862,
+    'argv' => [
+        'r=customer%2Fcustomer%2Fcustomer%2Findex',
+    ],
+    'argc' => 1,
+]
+[17-Jan-2015 17:54:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''Manage Custom' (T_ENCAPSED_AND_WHITESPACE) in /home/lobjects/public_html/livecrmyii/livefactory/views/layouts/main.php on line 58

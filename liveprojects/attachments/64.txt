@@ -1,0 +1,23 @@
+
+
+Looking for the following changes:
+
+- signup with google and email option
+- allow products to be assigned to multiple categories
+- scrape amazon products from http://goo.gl/V5XHOs
+- multiple asin import
+- improve search functions
+- specific product link redirect to amazon (for tracking and linking)
+- comments popup window
+- image alt text pulled from title
+- price slider (like http://goo.gl/3R2OHx)
+- newsletter confirmation should popup instead of show text on page
+- share product icons change to color on mouseover
+- edit multiple product titles at same time
+- blog social share bar make wp-plugin (http://speedsociety.com/86-million-dollar-mega-yacht-ultimate-billionaire-toy/)
+- slide-in message boxes
+- paste amazon link into search bar (http://goo.gl/RUdYPg)
+- adsense ad spots will replace some products
+
+
+

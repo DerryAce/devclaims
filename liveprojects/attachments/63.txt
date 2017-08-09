@@ -1,0 +1,2 @@
+ install opencart theme on my server including admin access
+admin can easily add edit or delete products and can able to change content slider images

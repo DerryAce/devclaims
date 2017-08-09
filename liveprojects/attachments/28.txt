@@ -1,0 +1,2 @@
+1.Task Model problem
+2.Should not close task without start time and completion time

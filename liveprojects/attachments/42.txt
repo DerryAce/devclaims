@@ -1,0 +1,89 @@
+Header
+<apex:component>
+  <apex:attribute name="title" description="title name" type="string" required="false"/>
+  <head>
+    <title>{!title}</title>
+    <link rel="stylesheet" href="{!$Resource.style}" type="text/css" />
+    <style>
+        .active{background:#035;color:#fff}
+    </style>
+</head>
+<div class="main">
+    <div class="haeader">
+        <img src="{!URLFOR($Resource.layout,'34_1.jpeg')}" style="border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;-ms-border-radius:10px;" />
+    </div>
+    <div class="menu">
+        <ul>
+            <li><a href="">Home</a>
+                <ul class="submenu">
+                    <li><a href="">Home</a></li>
+                    <li><a href="">About us</a></li>
+                    <li><a href="">Gallery</a></li>
+                    <li><a href="">Contact us</a></li>
+                </ul>
+            </li>
+            <li><a href="">About us</a></li>
+            <li><a href="">Gallery</a></li>
+            <li><a href="">Contact us</a></li>
+        </ul>
+    </div><!-- Header End-->
+    <apex:componentBody/>
+</div>
+</apex:component>
+
+
+Footer
+
+<apex:component >
+ <div class="footer">
+        Copyright © iBirds' Services. All rights reserved.<br/>
+Powered by iBirds' Services Website Building and Designing Softwares
+ </div>
+</apex:component>
+
+
+<apex:page showHeader="false" sidebar="false">
+  <c:newHeader title="Home Page">
+      <div class="content">
+        <form action="" method="get" enctype="multipart/form-data">
+                <table width="50%" cellspacing="0" cellpadding="5" align="center" border="1" class="tableBorder">
+                    <tr>
+                        <td><strong>Name</strong></td>
+                        <td><input type="text" name="name" id="" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gender</strong></td>
+                        <td>Male <input type="radio" name="gender" value="Male"  /> Female <input type="radio" name="gender"  value="Female" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Hobbies</strong></td>
+                        <td>
+                            Cricket <input type="checkbox" name="cri" id="" value="Cricket"  /> 
+                            Football <input type="checkbox" name="fot" id="" value="Football" /> 
+                         </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Courses</strong></td>
+                        <td>
+                            <select name="cou">
+                                <option value="">MBA</option>
+                                <option value="">MCA</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Query</strong></td>
+                        <td><textarea name="qu"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td><input type="reset" value="Clear"  /></td>
+                        <td><input type="submit" value="Submit" /></td>
+                    </tr>
+                </table>
+                </form>
+    </div>
+    <c:newFooter></c:newFooter>
+  </c:newHeader>
+  
+  
+</apex:page>

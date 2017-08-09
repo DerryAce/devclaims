@@ -1,0 +1,1 @@
+<?php header('Location http://demo.livecrm.co/liveprojects/web/index.php?r=site/index'); ?>

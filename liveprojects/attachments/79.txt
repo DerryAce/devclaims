@@ -1,0 +1,18 @@
+Trigger FieldValidation on Contact(before insert,before update){
+	if(Trigger.isInsert){
+		for(Contact obj : Trigger.new){
+			if(obj.leadsource == null){
+				obj.leadSource.addError('This field is Required!');
+			}
+		}
+	}
+	if(Trigger.isUpdate){
+		for(Contact obj1 : Trigger.new){
+			Contact oldCon = Trigger.oldMap.get(obj1.id);
+			if(obj1.firstname != oldCon.firstname){
+				decimal count = obj1.fieldUpdate==null?0:obj1.fieldUpdate;
+				obj1.fieldUpdate = count+1;
+			}
+		}
+	}
+}

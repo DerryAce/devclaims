@@ -1,0 +1,17 @@
+<?php
+
+namespace livefactory\modules\pmt\controllers;
+
+use yii\web\Controller;
+
+class LogoController extends Controller
+{
+    public function actionIndex()
+    {
+		if(isset($_FILES['logo']) && !empty($_FILES['logo']['name'])){
+			
+			move_uploaded_file($_FILES['logo']['tmp_name'],"../logo/logo.png");
+		}
+        return $this->render('index');
+    }
+}
