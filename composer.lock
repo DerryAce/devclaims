@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "2amigos/yii2-ckeditor-widget",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/2amigos/yii2-ckeditor-widget.git",
@@ -115,7 +115,7 @@
                 "reference": "8f2a9d9272d6ed7f32d3a484740ab342c02541e0",
                 "shasum": ""
             },
-            "require-dev": {
+            "require-stable": {
                 "bower-asset/qunit": "1.14.0",
                 "bower-asset/requirejs": "2.1.10",
                 "bower-asset/sinon": "1.8.1",
@@ -251,7 +251,7 @@
         },
         {
             "name": "bower-asset/yii2-pjax",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/jquery-pjax.git",
@@ -284,7 +284,7 @@
         },
         {
             "name": "cebe/markdown",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cebe/markdown.git",
@@ -300,9 +300,9 @@
                 "lib-pcre": "*",
                 "php": ">=5.4.0"
             },
-            "require-dev": {
+            "require-stable": {
                 "cebe/indent": "*",
-                "facebook/xhprof": "*@dev",
+                "facebook/xhprof": "*@stable",
                 "phpunit/phpunit": "3.7.*"
             },
             "bin": [
@@ -311,7 +311,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "stable-master": "1.0.x-stable"
                 }
             },
             "autoload": {
@@ -344,7 +344,7 @@
         },
         {
             "name": "ckeditor/ckeditor",
-            "version": "4.4.x-dev",
+            "version": "4.4.x-stable",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ckeditor/ckeditor-releases.git",
@@ -430,7 +430,7 @@
         },
         {
             "name": "fortawesome/font-awesome",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FortAwesome/Font-Awesome.git",
@@ -442,14 +442,14 @@
                 "reference": "c79474df99e572e230a7e16f06a6a4605c00b18f",
                 "shasum": ""
             },
-            "require-dev": {
+            "require-stable": {
                 "jekyll": "1.0.2",
                 "lessc": "1.4.2"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.0.x-dev"
+                    "stable-master": "4.0.x-stable"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -478,7 +478,7 @@
         },
         {
             "name": "kartik-v/bootstrap-fileinput",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/bootstrap-fileinput.git",
@@ -526,7 +526,7 @@
         },
         {
             "name": "kartik-v/bootstrap-star-rating",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/bootstrap-star-rating.git",
@@ -567,7 +567,7 @@
         },
         {
             "name": "kartik-v/dependent-dropdown",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/dependent-dropdown.git",
@@ -609,7 +609,7 @@
         },
         {
             "name": "kartik-v/mpdf",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/mpdf.git",
@@ -652,7 +652,7 @@
         },
         {
             "name": "kartik-v/php-date-formatter",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/php-date-formatter.git",
@@ -697,7 +697,7 @@
         },
         {
             "name": "kartik-v/yii2-builder",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-builder.git",
@@ -744,7 +744,7 @@
         },
         {
             "name": "kartik-v/yii2-datecontrol",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-datecontrol.git",
@@ -791,7 +791,7 @@
         },
         {
             "name": "kartik-v/yii2-detail-view",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-detail-view.git",
@@ -839,7 +839,7 @@
         },
         {
             "name": "kartik-v/yii2-grid",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-grid.git",
@@ -883,7 +883,7 @@
         },
         {
             "name": "kartik-v/yii2-helpers",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-helpers.git",
@@ -929,7 +929,7 @@
         },
         {
             "name": "kartik-v/yii2-icons",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-icons.git",
@@ -976,7 +976,7 @@
         },
         {
             "name": "kartik-v/yii2-krajee-base",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-krajee-base.git",
@@ -989,7 +989,7 @@
                 "shasum": ""
             },
             "require": {
-                "yiisoft/yii2-bootstrap": "@dev"
+                "yiisoft/yii2-bootstrap": "@stable"
             },
             "type": "yii2-extension",
             "autoload": {
@@ -1022,7 +1022,7 @@
         },
         {
             "name": "kartik-v/yii2-money",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-money.git",
@@ -1072,7 +1072,7 @@
         },
         {
             "name": "kartik-v/yii2-mpdf",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-mpdf.git",
@@ -1119,7 +1119,7 @@
         },
         {
             "name": "kartik-v/yii2-slider",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-slider.git",
@@ -1166,7 +1166,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-activeform",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-activeform.git",
@@ -1213,7 +1213,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-affix",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-affix.git",
@@ -1262,7 +1262,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-alert",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-alert.git",
@@ -1312,7 +1312,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-colorinput",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-colorinput.git",
@@ -1361,7 +1361,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-datepicker",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-datepicker.git",
@@ -1410,7 +1410,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-datetimepicker",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-datetimepicker.git",
@@ -1459,7 +1459,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-depdrop",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-depdrop.git",
@@ -1508,7 +1508,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-fileinput",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-fileinput.git",
@@ -1558,7 +1558,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-growl",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-growl.git",
@@ -1607,7 +1607,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-rangeinput",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-rangeinput.git",
@@ -1656,7 +1656,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-rating",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-rating.git",
@@ -1707,7 +1707,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-select2",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-select2.git",
@@ -1755,7 +1755,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-sidenav",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-sidenav.git",
@@ -1804,7 +1804,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-spinner",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-spinner.git",
@@ -1852,7 +1852,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-switchinput",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-switchinput.git",
@@ -1902,7 +1902,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-timepicker",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-timepicker.git",
@@ -1951,7 +1951,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-touchspin",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-touchspin.git",
@@ -2001,7 +2001,7 @@
         },
         {
             "name": "kartik-v/yii2-widget-typeahead",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-typeahead.git",
@@ -2049,7 +2049,7 @@
         },
         {
             "name": "kartik-v/yii2-widgets",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widgets.git",
@@ -2111,7 +2111,7 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "1.5.x-dev",
+            "version": "1.5.x-stable",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
@@ -2128,7 +2128,7 @@
                 "php": ">=5.1.2"
             },
             "suggest": {
-                "phpunit/php-timer": "dev-master"
+                "phpunit/php-timer": "stable-master"
             },
             "bin": [
                 "scripts/phpcs"
@@ -2136,7 +2136,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-phpcs-fixer": "2.0.x-dev"
+                    "stable-phpcs-fixer": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2186,7 +2186,7 @@
         },
         {
             "name": "swiftmailer/swiftmailer",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swiftmailer/swiftmailer.git",
@@ -2201,13 +2201,13 @@
             "require": {
                 "php": ">=5.3.3"
             },
-            "require-dev": {
+            "require-stable": {
                 "mockery/mockery": "~0.9.1"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "5.3-dev"
+                    "stable-master": "5.3-stable"
                 }
             },
             "autoload": {
@@ -2238,7 +2238,7 @@
         },
         {
             "name": "warrence/yii2-kartikgii",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/warrence/yii2-kartikgii.git",
@@ -2278,7 +2278,7 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
@@ -2309,7 +2309,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2367,7 +2367,7 @@
         },
         {
             "name": "yiisoft/yii2-bootstrap",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-bootstrap.git",
@@ -2386,7 +2386,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2413,7 +2413,7 @@
         },
         {
             "name": "yiisoft/yii2-composer",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-composer.git",
@@ -2432,7 +2432,7 @@
             "extra": {
                 "class": "yii\\composer\\Plugin",
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2460,7 +2460,7 @@
         },
         {
             "name": "yiisoft/yii2-jui",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-jui.git",
@@ -2479,7 +2479,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2506,7 +2506,7 @@
         },
         {
             "name": "yiisoft/yii2-swiftmailer",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-swiftmailer.git",
@@ -2525,7 +2525,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2555,7 +2555,7 @@
             "time": "2015-01-11 03:59:50"
         }
     ],
-    "packages-dev": [
+    "packages-stable": [
         {
             "name": "bower-asset/typeahead.js",
             "version": "v0.10.5",
@@ -2573,7 +2573,7 @@
             "require": {
                 "bower-asset/jquery": ">=1.7"
             },
-            "require-dev": {
+            "require-stable": {
                 "bower-asset/jasmine-ajax": ">=1.3.1,<1.4",
                 "bower-asset/jasmine-jquery": ">=1.5.2,<1.6",
                 "bower-asset/jquery": ">=1.7,<1.8"
@@ -2585,7 +2585,7 @@
         },
         {
             "name": "fzaninotto/faker",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
@@ -2600,7 +2600,7 @@
             "require": {
                 "php": ">=5.3.3"
             },
-            "require-dev": {
+            "require-stable": {
                 "phpunit/phpunit": "~4.0",
                 "squizlabs/php_codesniffer": "~1.5"
             },
@@ -2610,7 +2610,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.5.x-dev"
+                    "stable-master": "1.5.x-stable"
                 }
             },
             "autoload": {
@@ -2637,7 +2637,7 @@
         },
         {
             "name": "phpspec/php-diff",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/php-diff.git",
@@ -2671,7 +2671,7 @@
         },
         {
             "name": "yiisoft/yii2-codeception",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-codeception.git",
@@ -2689,7 +2689,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2716,7 +2716,7 @@
         },
         {
             "name": "yiisoft/yii2-debug",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-debug.git",
@@ -2735,7 +2735,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2763,7 +2763,7 @@
         },
         {
             "name": "yiisoft/yii2-faker",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-faker.git",
@@ -2782,7 +2782,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2810,7 +2810,7 @@
         },
         {
             "name": "yiisoft/yii2-gii",
-            "version": "dev-master",
+            "version": "stable-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-gii.git",
@@ -2831,7 +2831,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "stable-master": "2.0.x-stable"
                 }
             },
             "autoload": {
@@ -2859,7 +2859,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": {
         "warrence/yii2-kartikgii": 20,
         "kartik-v/yii2-builder": 20
@@ -2869,5 +2869,5 @@
     "platform": {
         "php": ">=5.4.0"
     },
-    "platform-dev": []
+    "platform-stable": []
 }

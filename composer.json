@@ -21,15 +21,15 @@
         "kartik-v/yii2-grid": "*",
         "kartik-v/yii2-krajee-base": "*",
         "kartik-v/yii2-widgets": "*",
-        "warrence/yii2-kartikgii": "dev-master",
+        "warrence/yii2-kartikgii": "stable-master",
         "kartik-v/yii2-mpdf": "*",
-        "kartik-v/yii2-builder": "dev-master",
+        "kartik-v/yii2-builder": "stable-master",
         "kartik-v/yii2-money": "*",
         "2amigos/yii2-ckeditor-widget": "*",
         "kartik-v/yii2-slider": "*",
 	"squizlabs/php_codesniffer": "1.*"
     },
-    "require-dev": {
+    "require-stable": {
         "yiisoft/yii2-codeception": "*",
         "yiisoft/yii2-debug": "*",
         "yiisoft/yii2-gii": "*",
